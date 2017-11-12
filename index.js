@@ -8,7 +8,7 @@ function printBadges(emps){
 function tailsNeverFails(){
   let coin = Math.random()
   let count = 0
-  while (coin < 0.5){
+  while (coin <= 0.5){
     count++
     coin = Math.random()
   }
