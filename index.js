@@ -10,7 +10,7 @@ function printBadges(emps){
 function tailsNeverFails(){
 
   let count = 0
-  while (maybeTrue()){
+  while (Math.random()>=0.5){
     count++
 
   }
