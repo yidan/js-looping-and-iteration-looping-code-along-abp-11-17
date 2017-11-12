@@ -5,12 +5,14 @@ function printBadges(emps){
   }
   return emps;
 }
+
+
 function tailsNeverFails(){
 
   let count = 0
   while (maybeTrue()){
     count++
-    
+
   }
 
   return `You got ${count} tails in a row!`
